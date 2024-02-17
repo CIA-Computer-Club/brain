@@ -1,42 +1,30 @@
 
-status: #status/processed 
-type: #type/doc 
+type: #type/blog 
 
 ---
 
-A guide on how to navigation and categorized my notes.
+A guide on how articles should be navigated and categorized.
 
-## Status
+## Role
 
-- processed - I haven't reviewed it.
-- unprocessed - I just wrote it down without review.
+- student 
+- teacher
 
 
 ## Type
 
-- doc - Guide or technical related.
-- journal - My private journal.
-- cheatsheet - You know what it is.
-- meeting - My private meeting note.
-- thoughts - Stuff that came to my mind.
-- quote - Cool quote I saw somewhere.
-- blog - Blogs will be available on my portfolio also.
-- task - Private task.
-- work - Work related notes.
+- interviews - Interviews with students and/or teachers.
+- share - Stuff that I think is interesting.
+- showcase - Showcase of club projects.
+- blog - Guide or technical related.
 
 
 ## Area
 
-Possible category
+Possible categories
 
 - tech
-- cultivation
-- beginning
-- family
-- life
-- finance
-- health
+- events
 - philosophy
 - design
-- leadership
 - knowledge
