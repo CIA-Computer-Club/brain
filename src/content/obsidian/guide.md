@@ -28,3 +28,4 @@ Possible categories
 - philosophy
 - design
 - knowledge
+- showcase
