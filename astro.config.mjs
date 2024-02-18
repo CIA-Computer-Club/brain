@@ -25,7 +25,7 @@ const rehypePrettyCodeOptions = {
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://brain.astolfo.store",
+  site: "https://localhost",
   compressHTML: true,
   srcDir: "src",
   output: "static",
