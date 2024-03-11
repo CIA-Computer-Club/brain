@@ -3,6 +3,7 @@ import mdx from "@astrojs/mdx";
 import sitemap from "@astrojs/sitemap";
 import tailwind from "@astrojs/tailwind";
 import icon from "astro-icon";
+import remarkMath from 'remark-math';
 import remarkWikiLink from "remark-wiki-link";
 import remarkBreaks from "remark-breaks";
 import { remarkReadingTime } from "./src/lib/remark-reading-time.mjs";
@@ -11,6 +12,7 @@ import { rehypeCheckbox } from "./src/lib/rehype-checkbox.mjs";
 import { remarkObsidianImg } from "./src/lib/remark-obsidian-image.mjs";
 import { rehypeHashtags } from "./src/lib/rehype-hashtags.mjs";
 import { remarkDescription } from "./src/lib/remark-description.mjs";
+import rehypeMathjax from 'rehype-mathjax';
 import vercel from "@astrojs/vercel/static";
 
 /** @type {import('rehype-pretty-code').Options} */
@@ -43,6 +45,7 @@ export default defineConfig({
       [rehypePrettyCode, rehypePrettyCodeOptions],
       rehypeCheckbox,
       rehypeHashtags,
+      rehypeMathjax,
     ],
     remarkPlugins: [
       remarkObsidianImg,
@@ -57,6 +60,7 @@ export default defineConfig({
       remarkBreaks,
       remarkReadingTime,
       remarkDescription,
+      remarkMath,
     ],
   },
   integrations: [

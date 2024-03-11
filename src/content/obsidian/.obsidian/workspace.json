@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "887c265941ead8f0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f75e9804595f2600",
+  "active": "887c265941ead8f0",
   "lastOpenFiles": [
     "01-interviews/kevin-ouk.md",
     "01-interviews/k-h.md"
