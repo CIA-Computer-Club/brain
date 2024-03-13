@@ -7,13 +7,13 @@ Area: #area/design
 # Valentines Day
 We made simple websites for valentines day!
     - [Neko Arc by Sliden](https://valentine.astolfo.store/)
-    <img src="/src/assets/09-media/valentines.png" alt="MarineGEO circle logo"/>
+    <img src="https://github.com/Sliden101/brain/blob/main/src/assets/09-media/valentines.png?raw=true" alt="valentines"/>
     - [Cinnamon Rolls by Kevin Ouk](https://star12452.github.io/cinnamoroll-valentine/)
-    <img src="/src/assets/09-media/valentines1.png" alt="MarineGEO circle logo"/>
+    <img src="https://github.com/Sliden101/brain/blob/main/src/assets/09-media/valentines1.png?raw=true" alt="valentines"/>
     - [Tony Chopper by Kevin Ouk](https://star12452.github.io/valentine/)
-    <img src="/src/assets/09-media/valentines3.png" alt="MarineGEO circle logo"/>
+    <img src="https://github.com/Sliden101/brain/blob/main/src/assets/09-media/valentines3.png?raw=true" alt="valentines"/>
     - [Kuromi by Puth](https://star12452.github.io/kuromi-valentine/)
-    <img src="/src/assets/09-media/valentines2.png" alt="MarineGEO circle logo"/>
+    <img src="https://github.com/Sliden101/brain/blob/main/src/assets/09-media/valentines2.png?raw=true" alt="valentines"/>
 
 With these websites, you can surprise your loved one with various website designs depending on their preferences to further increase the love between you two. And if you’re a computer scientist, you can check the GitHub webpage and change the design to your partner's liking. [Project Link](https://github.com/CIA-Computer-Club/valentines)
 
