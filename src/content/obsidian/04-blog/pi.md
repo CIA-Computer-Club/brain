@@ -4,12 +4,9 @@ Area: #area/mathematics
 
 ---
 # $\pi$
-$$\text{$\pi$ (pronounced pī) is one of the most well-known mathematical constant, }$$
-$$\text{represents the ratio of a circle’s circumference to its diameter.}$$
-$$\text{$\pi$ is an irrational number, equals to 3.1415926…}$$  
-\
-$$\text{In celebration of Pi Day (3.14), we have written about $\pi$}$$
-$$\text{by the many things that $\pi$ equals to.}$$
+π (pronounced pī) is one of the most well-known mathematical constant, represents the ratio of a circle’s circumference to its diameter.π is an irrational number, equals to 3.1415926…
+
+In celebration of Pi Day (3.14), we have written about πby the many things that π equals to.
 
 # Polygons: Archimedes
 Around the 250 BCE, [Archimedes](https://en.wikipedia.org/wiki/Archimedes) found an ingenious way to approximate π using polygons. He began by inscribing a regular hexagon (six-equally-sided polygon) inside a circle and then circumscribing another regular hexagon outside the same circle. 
