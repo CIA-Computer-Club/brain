@@ -13,7 +13,7 @@ $$\text{by the many things that $\pi$ equals to.}$$
 
 # Polygons: Archimedes
 Around the 250 BCE, [Archimedes](https://en.wikipedia.org/wiki/Archimedes) found an ingenious way to approximate π using polygons. He began by inscribing a regular hexagon (six-equally-sided polygon) inside a circle and then circumscribing another regular hexagon outside the same circle. 
-<img src="/src/assets/09-media/polygon.webp" alt="polygon"/>
+<img src="https://media.discordapp.net/attachments/1204276693502529568/1217532400242917376/newton.png?ex=66045e68&is=65f1e968&hm=436d1baba2848cc782c3fc150feea8bd6b5ab2383f8adda60c19a6173b54d0b2&=&format=webp&quality=lossless&width=544&height=350" alt="polygon"/>
 
 By calculating the exact circumferences and diameters of these hexagons, then divide the circumferences by the diameters, he obtained a rough approximation of π. It equals to an average of 3.14158, a five digits accuracy in today's world. 
 
@@ -35,7 +35,7 @@ For ten million sides, we obtain 3.141592653589741, a 14 digits accuracy.
 
 In 1666, Newton computed 16 digits of π by constructing a geometric figure in which the value of pi is related to the numerical approximation of an integral. Newton approximated the integral by expanding a function in an infinite series, truncating the series at 22 terms, and evaluating each term by using long division. Although the formulation and general idea is accessible to calculus students, the calculations are long and tedious. Instead, you can use modern numerical methods to evaluate the integral, thus computing a 14-digit approximation to π. 
 
-<img src="/src/assets/09-media/newton.png" alt="newton"/>
+<img src="https://media.discordapp.net/attachments/1204276693502529568/1217532436196495370/polygon.png?ex=66045e71&is=65f1e971&hm=ffca42ba66807674fc587a01eb2571ed4fa0b0239ef0ff8ce9b7bb88f6b90f9f&=&format=webp&quality=lossless&width=233&height=350" alt="newton"/>
 
 From the figure, we see that Area(OCB) = M + Area(ABC). 
 Plugging in the formulas for these quantities, we getπ /24 = M + sqrt(3)/32. 
@@ -57,7 +57,7 @@ Mathematicians found that by counting how many times the spaghetti crosses a lin
 This "game" helps mathematicians understand probabilities and also gives us a clever way to estimate the value of π without needing to measure circles directly.
 
 [Buffon's needle monte carlo simulation](https://colab.research.google.com/gist/Sliden101/9ba38be686478e2ab864f357f677ff52/buffon-needle-simulation.ipynb)
-<img src="/src/assets/09-media/buffon.png" alt="Buffon"/>
+<img src="https://media.discordapp.net/attachments/829155749040750596/1217519167561928704/ffffdACxZsoTnnnsuRKsSfeHxxx8H4IwzzmjyWeffZbrrruu7xcklRRURHXXnstfn5REdHM2HCBFauXMk555wT6qUJIXrR8ePHWbhwIaWlpSQmJnLqqaeybt06EhMTQ720DskcHSGEEEIIIcSAIzU6QgghhBBCiAFHAh0hhBBCCCHEgCOBjhBCCCGEEGLAkUBHCCGEEEIIMeBIoCOEEEIIIYQYcCTQEUIIIYQQQgw4EugIIYQQQgghBhwJdIQQQgghhBADjgQ6QgghhBBCiAFHAh0hhBBCCCHEgCOBjhBCCCGEEGLAX98dg4PcOELJwAAAABJRU5ErkJggg.png?ex=66045215&is=65f1dd15&hm=125ed0cccdaa97e978bfa1538c3c8ed1b1bafcec6776e6b292d14fa3d22c3480&=&format=webp&quality=lossless&width=683&height=683" alt="Buffon"/>
 
 # Epilogue 
 
