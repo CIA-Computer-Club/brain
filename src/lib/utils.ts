@@ -7,6 +7,9 @@ export function cn(...inputs: ClassValue[]) {
 
 // smart capitalize phrase
 export function capitalize(phrase: string) {
+  if (!phrase.match(/^[0-9a-z]+$/)){
+    return phrase
+  }
   return phrase
     .split(" ")
     .map((word) => word[0].toUpperCase() + word.slice(1))
