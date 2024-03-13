@@ -23,9 +23,11 @@
             "id": "887c265941ead8f0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "03-showcase/valentines.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-interviews/k-h.md",
+                "file": "03-showcase/valentines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-interviews/k-h.md",
+                "file": "03-showcase/valentines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-interviews/k-h.md"
+                "file": "03-showcase/valentines.md"
               }
             }
           }
